@@ -12,7 +12,8 @@ Your website should have 2 pages.
 3. Use CSS to set the color of your link.
 4. Use JavaScript to create an Alert Box with a greeting.
 
-Below are recommended resources to walk you through this process. S
+Below are recommended resources to walk you through this process.
+
 Resources:
 
 Provided Code for Reference: https://github.com/CodeCrew-CodeSchool/HelloWorld
