@@ -22,6 +22,6 @@ GitHub Pages Setup steps: https://pages.github.com/
 * Select "Project site"
 * Select "Start from scratch"
 
-Video Guide: https://youtu.be/OltY8JIaP-4?si=QAT0mkk4JPAEj2Fp
+Video Guide: https://youtu.be/CfdzyPADqPg
 
 Your submission should open up to the working site that you have deployed.
